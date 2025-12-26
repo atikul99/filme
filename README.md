@@ -1,4 +1,4 @@
-# Movie Review & Search App
+# 🎬 Movie Review & Search App
 
 A React-based movie search and review application powered by The Movie Database (TMDB) API.
 Built to showcase API integration, search functionality, and clean UI design.
@@ -17,6 +17,20 @@ Built to showcase API integration, search functionality, and clean UI design.
 - JavaScript (ES6+)
 - TMDB API
 - CSS / Tailwind
+
+## Getting Started
+
+```bash
+git clone https://github.com/atikul99/filme.git
+cd filme
+npm install
+npm run dev
+```
+Create `.env` file:
+
+```bash
+VITE_API_KEY = your_api_key
+```
 
 ## Live Demo
 
