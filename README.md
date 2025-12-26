@@ -20,7 +20,7 @@ Built to showcase API integration, search functionality, and clean UI design.
 
 ## Live Demo
 
-[text](https://filme-jade.vercel.app/)
+[https://filme-jade.vercel.app/](https://filme-jade.vercel.app/)
 
 ## Highlights
 
